@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.mainIamage {
+    border: 3px solid grey;
+    display: block;
+    width: 745px;
+    height: 400px;
+    margin-bottom: 10px;
+}
+
+.imageStyle {
+    height: 100px;
+    width: 100px;
+    border: 2px solid grey;
+}

@@ -1,0 +1,14 @@
+.sortable {
+    width: 300px;
+    border: 1px solid red;
+    list-style: none;
+    padding: 10px;
+    float: left;
+    min-width: 200px;
+    min-height: 200px;
+    margin: 20px;
+}
+
+.sortable li {
+    margin-bottom: 15px;
+}
